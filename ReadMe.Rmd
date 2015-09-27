@@ -1,0 +1,22 @@
+---
+title: "Modified Mazda MPG predictor"
+author: "Lucian Pop"
+date: "September 27, 2015"
+output: html_document
+---
+
+## Modified Mazda MPG Predictor
+
+To be able to estimate or predict your modified Mazda Race car MPG you can use this tool.
+The tool was developed using mtcars test data and is using a cariety of cars data.
+
+To use our tool please follow these steps:
+
+1. Launch application.
+2. Use the HP slider to set your final power in HP.
+3. Use the Weight slider to set the final weight in pounds.
+4. Press the submit button.
+
+You can repert above steps any numbet of time to optimize your fuel consumption.
+
+
