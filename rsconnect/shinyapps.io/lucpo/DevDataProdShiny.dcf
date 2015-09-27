@@ -1,0 +1,8 @@
+name: DevDataProdShiny
+account: lucpo
+server: shinyapps.io
+bundleId: 275661
+url: https://lucpo.shinyapps.io/DevDataProdShiny
+when: 1443391074.781
+asMultiple: FALSE
+asStatic: FALSE
